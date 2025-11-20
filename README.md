@@ -1,5 +1,7 @@
 # LLM Sentiment Analysis
 
+![License](https://img.shields.io/badge/License-MIT-green.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-orange.svg) ![DistilBERT](https://img.shields.io/badge/DistilBERT-Model-blueviolet.svg) ![BART](https://img.shields.io/badge/BART-MNLI-red.svg) ![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 A comparative study of sentiment classification using **zero-shot** and **few-shot prompting** techniques with multiple large language models (DistilBERT and BART) on restaurant review data from Yelp.
 
 ## 📋 Table of Contents
